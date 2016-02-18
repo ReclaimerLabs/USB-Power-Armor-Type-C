@@ -1,0 +1,213 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-may-01 BZR unknown)-product   date = 5/23/2015 02:14:41
+
+BeginCmp
+TimeStamp = /555EE35B;
+Reference = C1;
+ValeurCmp = 3.3 uF;
+IdModule  = Jason_Libraries:0603_np;
+EndCmp
+
+BeginCmp
+TimeStamp = /555EE3CD;
+Reference = C2;
+ValeurCmp = 3.3 uF;
+IdModule  = Jason_Libraries:0603_np;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D7759;
+Reference = J1;
+ValeurCmp = USB-C_Female;
+IdModule  = Jason_Libraries:USB-C_Female_Hybrid_RA;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D7820;
+Reference = J2;
+ValeurCmp = USB-C_Plug;
+IdModule  = Jason_Libraries:USB-C_Plug_Mid_Mount;
+EndCmp
+
+BeginCmp
+TimeStamp = /555F16B3;
+Reference = R1;
+ValeurCmp = 0R;
+IdModule  = Jason_Libraries:0603_np;
+EndCmp
+
+BeginCmp
+TimeStamp = /555F1785;
+Reference = R2;
+ValeurCmp = 0R;
+IdModule  = Jason_Libraries:0603_np;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D9BCB;
+Reference = T1;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D9BD1;
+Reference = T2;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8579;
+Reference = T3;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8627;
+Reference = T4;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8671;
+Reference = T5;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8677;
+Reference = T6;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D870D;
+Reference = T7;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8713;
+Reference = T8;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8719;
+Reference = T9;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D871F;
+Reference = T10;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D9AA1;
+Reference = T11;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D9024;
+Reference = T12;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D9B4D;
+Reference = T13;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D902A;
+Reference = T14;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D9B6D;
+Reference = T17;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D9B73;
+Reference = T18;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D87FB;
+Reference = T19;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8801;
+Reference = T20;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8807;
+Reference = T21;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D880D;
+Reference = T22;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8813;
+Reference = T23;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8819;
+Reference = T24;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D881F;
+Reference = T25;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+BeginCmp
+TimeStamp = /555D8825;
+Reference = T26;
+ValeurCmp = TP;
+IdModule  = Jason_Libraries:TP;
+EndCmp
+
+EndListe
